@@ -4,9 +4,10 @@ Record accepted decisions in the format below. Keep each entry short enough to r
 
 ## Decision template
 
-- Decision:
-- Reason:
-- Contributor:
+- Decision: Use high-contrast signs at festival entrances.
+- Reason: Improve readability for visitors.
+- Contributor: James and Estephany
+
 
 ## Accepted decisions
 

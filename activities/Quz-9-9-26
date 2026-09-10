@@ -149,9 +149,9 @@ git log --oneline --decorate -3
 
 ### Final evidence
 
-- Final `git status`: ______________________________________________________
-- Newest commit message: _________________________________________________
-- Does `HEAD -> main` point to the new commit? _____________________________
+- Final `git status`: _nothing to commit, working tree clean_____________________________________________________
+- Newest commit message: __added the Quiz to the repo for easier completion and restored Decisions.md to original version_______________________________________________
+- Does `HEAD -> main` point to the new commit? _Yes____________________________
 
 ### Success checklist
 
@@ -168,15 +168,15 @@ Answer in one sentence each.
 
 1. What is the difference between `git diff` and `git diff --staged`?
 
-   __________________________________________________________________________
+   _git diff shows the difference in the modified and previously edited files. staged does the same but only shows that in the files that are staged_________________________________________________________________________
 
 2. Why can your partner not receive this new commit yet?
 
-   __________________________________________________________________________
+   ___it is only local for now. need a repo on github they can pull from_______________________________________________________________________
 
 3. What evidence proves that your commit succeeded?
 
-   __________________________________________________________________________
+   _________________git log --oneline -1_________________________________________________________
 
 ## Submit
 
